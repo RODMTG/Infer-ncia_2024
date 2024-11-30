@@ -1,0 +1,14 @@
+h1 {
+  color: white; /* Cor dos tópicos principais */
+}
+
+h2 {
+  color: white; /* Cor dos subtópicos */
+}
+
+h3 {
+  color: #7fffd4; /* Cor dos sub-subtópicos */
+}
+h4 {
+  color: white; /* Cor dos sub-sub-subtópicos */
+}

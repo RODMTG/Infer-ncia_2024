@@ -1,0 +1,39 @@
+project:
+  type: book
+  output-dir: docs
+  
+book:
+  title: "Inferência - 90h"
+  subtitle: "4° Bloco"
+  author: 
+    - name: "Rodrigo .M.T Graim"
+      id: md
+      corresponding: true
+      affiliation: Faculdade de Estatística
+        - UFPA
+        
+  page-footer: 
+    left: |
+      Foi escrito por (GRAIM - 2024)
+    right: |
+      UFPA 2024.
+  search: true
+  repo-url: https://github.com/RODMTG/Inferencia_2024
+  downloads: [pdf, docx]
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - summary.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    css: styles.css
+    theme: darkly
+  pdf:
+    documentclass: scrreprt
+
+editor: visual
+

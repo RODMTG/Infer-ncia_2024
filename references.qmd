@@ -1,0 +1,6 @@
+# Referências {.unnumbered}
+
+Lista de referências citadas durante as aulas:
+
+::: {#refs}
+:::

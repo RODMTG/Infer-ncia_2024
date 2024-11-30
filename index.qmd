@@ -1,0 +1,12 @@
+```{=html}
+<style>
+body{text-align: justify}
+</style>
+```
+# Apresentação {.unnumbered}
+
+Este book foi criado por Rodrigo Marreiros Tavares Graim, e contém anotações pessoais das aulas de Inferência ministradas pelo professor Paulo Cerqueira Junior durante o segundo semestre do ano de 2024 e primeiro semestre de 2025.
+
+Período das aulas: 25/11/2024 - xx/04/2025
+
+Github do professor: <https://github.com/paulocerqueirajr>

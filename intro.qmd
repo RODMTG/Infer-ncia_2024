@@ -1,0 +1,39 @@
+```{=html}
+<style>
+body{text-align: justify}
+</style>
+```
+
+
+::: progress
+::: {.progress-bar style="width: 5%; background-color: green; "}
+:::
+:::
+
+# Aulas
+
+UFPA - Mirante do Rio - Sala 410
+
+Todas as segundas, quartas e sextas das 14:50 às 18:20
+
+## Revisão (CP1 e CP2)
+
+### Aula 1 - 25/11/2024
+
+#### Experimentos Aleatórios
+Toda situação a qual não conseguimos prever com certeza
+
+#### Espaço Amostral
+É o conjunto de todas as possibilidades do experimento aleatório, normalmente representado por S (de Space), E (de Espaço) ou $\Omega$
+
+Exemplo: No caso de um lançamento de uma moeda, temos: $\Omega$ = {"cara" , "coroa"}
+
+#### Probabilidade
+
+É uma função que atribui valores no intevalo [0,1] para elementos de $\Omega$
+
+
+
+### Aula 2 - 27/11/2024
+
+### Aula 3 - 29/11/2024

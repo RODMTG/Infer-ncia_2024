@@ -1,0 +1,42 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Inferência - 90h",
+    "section": "",
+    "text": "Apresentação\nEste book foi criado por Rodrigo Marreiros Tavares Graim, e contém anotações pessoais das aulas de Inferência ministradas pelo professor Paulo Cerqueira Junior durante o segundo semestre do ano de 2024 e primeiro semestre de 2025.\nPeríodo das aulas: 25/11/2024 - xx/04/2025\nGithub do professor: https://github.com/paulocerqueirajr",
+    "crumbs": [
+      "Apresentação"
+    ]
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "1  Aulas",
+    "section": "",
+    "text": "1.1 Revisão (CP1 e CP2)",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Aulas</span>"
+    ]
+  },
+  {
+    "objectID": "intro.html#revisão-cp1-e-cp2",
+    "href": "intro.html#revisão-cp1-e-cp2",
+    "title": "1  Aulas",
+    "section": "",
+    "text": "1.1.1 Aula 1 - 25/11/2024\n\n1.1.1.1 Experimentos Aleatórios\nToda situação a qual não conseguimos prever com certeza\n\n\n1.1.1.2 Espaço Amostral\nÉ o conjunto de todas as possibilidades do experimento aleatório, normalmente representado por S (de Space), E (de Espaço) ou \\(\\Omega\\)\nExemplo: No caso de um lançamento de uma moeda, temos: \\(\\Omega\\) = {“cara” , “coroa”}\n\n\n1.1.1.3 Probabilidade\nÉ uma função que atribui valores no intevalo [0,1] para elementos de \\(\\Omega\\)\n\n\n\n1.1.2 Aula 2 - 27/11/2024\n\n\n1.1.3 Aula 3 - 29/11/2024",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Aulas</span>"
+    ]
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "Referências",
+    "section": "",
+    "text": "Lista de referências citadas durante as aulas:",
+    "crumbs": [
+      "Referências"
+    ]
+  }
+]
